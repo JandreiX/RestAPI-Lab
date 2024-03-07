@@ -1,0 +1,14 @@
+##Get all Employees
+GET http://localhost:3000/Employee
+
+##Create an Employee
+POST http://localhost:3000/Employee
+
+##Get a single Employee
+GET http://localhost:3000/Employee/:id
+
+##Update an Employees
+PATCH http://localhost:3000/Employee
+
+##Delete an Employee
+DELETE  http://localhost:3000/Employee
